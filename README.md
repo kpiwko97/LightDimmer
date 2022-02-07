@@ -1,5 +1,6 @@
-# 💡 Light Dimmer
-
+<h1 align="center">
+💡 Light Dimmer
+</h1>
 ## 📙 Description :
 Application was designed to help control the brightness of LED's. Light brightness can be controlled using a smartphone, or adjusted automatically by the algorithm. System gets data from the light sensor, real-time clock and motion sensor. Commands are sent via Bluettoth communication. You must pair a Bluetooth device first time in Bluetooth settings. If the transmission is interrupted or connection is lost, it is required to reconnect. During microcontroller setup all settings set on the smartphone will be sent. This prevent discrepancies between phone and the microcontroller.
 
